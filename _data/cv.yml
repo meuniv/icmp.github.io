@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Vincent Meunier
     - name: Date of Birth
       value: 14th March 1879
     - name: Languages
-      value: English, German
+      value: Franch, English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: University of Namur, Belgium
+      year: 1999
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +21,15 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: M.S. Physics and Chemistry of Mesoscopic Systems
+      institution: University of Namur, Belgium
+      year: 1999
+      description:
+        - Description 1.
+        - Description 2.
+    - title: B.S. Physics
+      institution: University of Namur, Belgium
+      year: 1996
       description:
         - Description 1.
         - Description 2.
